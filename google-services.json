@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "650324200895",
+    "firebase_url": "https://appmob1-53185-default-rtdb.firebaseio.com",
+    "project_id": "appmob1-53185",
+    "storage_bucket": "appmob1-53185.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650324200895:android:78ae1a31651c72ddc1a50a",
+        "android_client_info": {
+          "package_name": "com.example.tugaspemrogramanbergerak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDduAdWE-6wAhZzp6HkT11U8LGU6dIOwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
